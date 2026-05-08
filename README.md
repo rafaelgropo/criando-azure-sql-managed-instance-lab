@@ -1,0 +1,1 @@
+# criando-azure-sql-managed-instance-lab

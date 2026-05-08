@@ -1,3 +1,4 @@
+```text
 azure-sql-managed-instance-lab/
 │
 ├── README.md
